@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "339385223281",
+    "firebase_url": "https://soyaragon-1f0dc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "soyaragon-1f0dc",
+    "storage_bucket": "soyaragon-1f0dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339385223281:android:059d04073b10241e0473d0",
+        "android_client_info": {
+          "package_name": "com.example.soyaragon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXD5gXBZmnwWT3c67XdGk3SEHbM2XWkeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
